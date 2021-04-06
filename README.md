@@ -2,6 +2,7 @@
 Nama Kelompok :
 - Rifa Humaira Syahrani - 1908070
 - Shinta Zahra Zahriyatul - 1904127
+
 Modif : 
 - mengubah class pintu menjadi inheritance dari class item
 - class NPC di ubah menjadi class inheritance dari class player
